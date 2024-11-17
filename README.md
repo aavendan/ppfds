@@ -2,4 +2,4 @@
 
 ## Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
-[Module 01 - Final Assignment][Final Assignment.ipynb]
+[Module 01 - Final Assignment](./Final Assignment.ipynb)
