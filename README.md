@@ -1,1 +1,1 @@
-# ppfds
+# Python project for Data Science
